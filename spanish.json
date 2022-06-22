@@ -186,7 +186,7 @@
 
         "login-2fa-otp-email": "Una contraseña de un solo uso ha sido enviada al correo electrónico vinculado a su cuenta.",
         "login-2fa-otp-2auth": "Por favor introduzca el código de un uso generado por su autentificador.",
-        "login-2fa-otp-error": "Su código de un uso es incorrecto, Por favor revise y intente de nuevo.",
+        "login-2fa-otp-error": "Su código de un uso es incorrecto, Por favor revise e intente de nuevo.",
 
         "login-status-loggingin": "Iniciando sesión como ",
         "login-status-registering": "Registrando su cuenta nueva ",
